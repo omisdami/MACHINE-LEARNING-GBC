@@ -1,0 +1,14 @@
+Feature Extractor	Model	Accuracy
+CountVectorizer	DecisionTree	0.8662790697674418
+CountVectorizer	MultinomialNB	0.9244186046511628
+CountVectorizer	LogisticRegression	0.936046511627907
+CountVectorizer	SVM	0.7093023255813954
+CountVectorizer	DecisionTree	0.8546511627906976
+Word2Vec	MultinomialNB	0.45348837209302323
+Word2Vec	LogisticRegression	0.5174418604651163
+Word2Vec	SVM	0.5
+Word2Vec	DecisionTree	0.4418604651162791
+Doc2Vec	MultinomialNB	0.563953488372093
+Doc2Vec	LogisticRegression	0.6918604651162791
+Doc2Vec	SVM	0.4941860465116279
+Doc2Vec	DecisionTree	0.5406976744186046

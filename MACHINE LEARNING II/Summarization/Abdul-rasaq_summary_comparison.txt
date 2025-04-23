@@ -1,0 +1,82 @@
+Neural Network Article Summaries
+===========================
+
+TextRank Summary:
+-----------------
+“Papa, tell me what stuff means and something means.” Cannot help evade a cute curious face, I said, “I am working on Neural Network.” Before I finish the statement, “Papa, What is a Meural Metark?” I gave up my stubbornness of avoiding her.
+“Neural Network is a collection (a network) of neurons whose job is to learn a new thing or a new place or a new process or a new concept.”
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+When you see a new object, your brain will ask the neurons, ‘Hey, anybody experienced this before?’ The neurons will say, ‘Yes, I have seen this.’ Certain other neurons will say, ‘No, I have not seen this.’ The neurons that have seen this before, will group together and form logical connections from the past and gives us an object from our memory.
+The same principle is applied for a song that you hear, a cartoon that you watch, a rhyme that you sing, an animal that you draw, a food that you taste, a flower that you smell and so on.
+
+LexRank Summary:
+----------------
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+Was it a dog or a lion?
+Do you know what is the difference between a lion and a dog?” She said, “Yes.” I said, “This is called Learning.
+Ultimately, the neurons in your brain tell that it is a lion and not a dog.
+Me: So, for a dog, the features are face, body, legs and tail.
+
+Luhn Summary:
+-------------
+How you learnt it is because of Neural Network inside your brain.” Now, a neural network is a collection of neurons that keeps switching on and off based on things you see, feel, hear and think just like switching on light bulb at our home.
+For example, a face object can be seen by neurons as a circle (face) with two smaller circles (two eyes), a line (nose) and a curved line (mouth).
+Every neuron is waiting for your eyes to see something new, for your nose to smell something new, for your ears to hear something new, for your tongue to taste something new.
+When something new is heard, or smelled, or seen, or tasted, the neurons will group together to send signals and forms connections with already seen, heard, tasted or smelled neurons.
+When you see a new object, your brain will ask the neurons, ‘Hey, anybody experienced this before?’ The neurons will say, ‘Yes, I have seen this.’ Certain other neurons will say, ‘No, I have not seen this.’ The neurons that have seen this before, will group together and form logical connections from the past and gives us an object from our memory.
+
+LSA Summary:
+------------
+If you’ve noticed, this is how ML people make their machines learn through Reinforcement Learning.
+For example, when I showed you a lion picture, your brain asked the neurons who had seen it before.
+Every neuron will tune itself to pick up certain features like legs, tail, face, beard, and so on.
+And I hope she will not come to me running asking “Papa, what is Meural Metark?” again.
+And I have a strong feeling; she would ask me another stunning question sooner or later.
+
+Gensim Summary:
+---------------
+“Papa, tell me what stuff means and something means.” Cannot help evade a cute curious face, I said, “I am working on Neural Network.” Before I finish the statement, “Papa, What is a Meural Metark?” I gave up my stubbornness of avoiding her.
+After all, neural network inside our brain helps us to learn new things in our life.
+What I was actually doing here was teaching her neural network (brain) the features of a lion like exactly how Machine Learning Engineers would train the machine to learn new features.
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+A dog will have features like face, body, legs, and tail.
+A lion will have features like face, body, legs, tail and a beard.
+For example, when I showed you a lion picture, your brain asked the neurons who had seen it before.
+The neurons grouped together with features like face, body, legs, tail and a beard forms a lion.
+Once all the features are there, the neurons will send a signal that the picture you are looking at is a lion and not a dog.
+Every neuron will tune itself to pick up certain features like legs, tail, face, beard, and so on.
+Ultimately, the neurons in your brain tell that it is a lion and not a dog.
+When I ask you to draw a dog, what are the features there?
+All neurons work together like your friends and identify lion and dog.
+Neural network is a group of neuron friends identifying lions and dogs.
+
+Summa Summary:
+--------------
+What I was actually doing here was teaching her neural network (brain) the features of a lion like exactly how Machine Learning Engineers would train the machine to learn new features.
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+A dog will have features like face, body, legs, and tail.
+A lion will have features like face, body, legs, tail and a beard.
+How you learnt it is because of Neural Network inside your brain.” Now, a neural network is a collection of neurons that keeps switching on and off based on things you see, feel, hear and think just like switching on light bulb at our home.
+For example, when I showed you a lion picture, your brain asked the neurons who had seen it before.
+The neurons grouped together with features like face, body, legs, tail and a beard forms a lion.
+Once all the features are there, the neurons will send a signal that the picture you are looking at is a lion and not a dog.
+Every neuron will tune itself to pick up certain features like legs, tail, face, beard, and so on.
+Ultimately, the neurons in your brain tell that it is a lion and not a dog.
+When I ask you to draw a dog, what are the features there?
+Me: So, for a dog, the features are face, body, legs and tail.
+If I ask you to draw a lion, what are the features?
+Once the features are seen and a logical connection is established, neurons signals your brain that it is a lion.
+All neurons work together like your friends and identify lion and dog.
+Neural network is a group of neuron friends identifying lions and dogs.
+
+Best Method == Gensim 
+
+Explanation =
+After analyzing the summaries generated by six different algorithms—TextRank, LexRank, Luhn, LSA, Gensim, and Summa.
+It is clear that Gensim produces the most effective summary for this particular task. 
+While all the methods capture different fragments of the article, Gensim stands out due to its strong balance between relevance, conciseness, and readability. 
+The Gensim summary effectively captures the central theme of the article, how neural networks in the human brain relate to machine learning.
+It highlights the comparison between identifying features of a lion and a dog, reflecting how neurons form connections to recognize patterns, which was an essential analogy used throughout the article.
+Compared to methods like TextRank and LSA, which tend to extract disjointed sentences and lack narrative coherence, Gensim produces a well structured summary that flows logically. It avoids redundancy, preserves the storytelling tone, and clearly explains key concepts like feature recognition and neuron interaction. 
+Although Summa also performs well in terms of structure, it includes more repetition than Gensim, making it slightly less concise. 
+Gensim’s ability to preserve the explanatory depth of the original text while maintaining brevity makes it the best choice for summarizing this kind of conceptual, analogy-rich content. For these reasons, Gensim is the most suitable method for this task.
